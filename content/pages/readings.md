@@ -8,21 +8,227 @@ uid: 13b84a3c-7b6e-8017-7c2a-eb9ddcef3a62
 
 \[Safeware\] = ———. _Safeware: System Safety and Computers_. Addison-Wesley Professional, 1995. ISBN: 9780201119725. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
 
-| SES # | CLASS TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction, Causality, Bhopal, Hindsight Bias |  {{< br >}}{{< br >}} \[ESW\] Chapters 1 and 2. {{< br >}}{{< br >}} \[Safeware\] Chapter 1. {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Part 1—Chapters 1–2 Questions  {{< br >}}Accident Models, STAMP, Systems Theory {{< br >}}{{< br >}} Part 2—Ethics Discussion {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Safeware\] pp. 129–35, 185–93, 197, 202–4, and 145–55. {{< br >}}{{< br >}} \[ESW\] Chapters 3 and 4. {{< br >}}{{< br >}} Tank Overflow Accident Report {{< br >}}{{< br >}}  |
-| 3 | CAST and Accident Analysis |  {{< br >}}{{< br >}} \[Safeware\] pp. 39–48 and 53–88. {{< br >}}{{< br >}} \[ESW\] Chapters 5 and 11. {{< br >}}{{< br >}}  |
-| 4 | Traditional HA, Lecture on Quantification | \[Safeware\] pp. 305–11, 313–26, 327–32, 341–44, 350–58 |
-| 5 | Systems Theoretic Process Analysis (STPA) Introduction, Basic Components (hazard, constraints, HCS) | \[ESW\] Chapters 6 and 7 (only pp. 211–30). |
-| 6 | STPA, How to Do It | \[ESW\] Chapter 8. |
-| 7 | Design for Safety |  {{< br >}}{{< br >}} \[Safeware\] Chapter 16, Follensbee. {{< br >}}{{< br >}} \[ESW\] pp. 263–73. {{< br >}}{{< br >}}  |
-| 8 | Human Factors |  {{< br >}}{{< br >}} Automation Complacency Paper {{< br >}}{{< br >}} \[Safeware\] pp. 204–24 (Human error models). {{< br >}}{{< br >}} \[ESW\] pp. 273–306. {{< br >}}{{< br >}}  |
-| 9 | Cyber Security | Young and Leveson paper |
-| 10 | Operations, Regulation |  {{< br >}}{{< br >}} \[ESW\] Chapters 12. {{< br >}}{{< br >}} Other readings (assigned in class) {{< br >}}{{< br >}}  |
-| 11 | Guest Lecture | &nbsp; |
-| 12 | Management, SUBSAFE | \[ESW\] Chapters 13 and 14. |
-| 13 | Presentations of Class Projects |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+CLASS TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Causality, Bhopal, Hindsight Bias
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[ESW\] Chapters 1 and 2.
+
+\[Safeware\] Chapter 1.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Part 1—Chapters 1–2 Questions  
+Accident Models, STAMP, Systems Theory
+
+Part 2—Ethics Discussion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Safeware\] pp. 129–35, 185–93, 197, 202–4, and 145–55.
+
+\[ESW\] Chapters 3 and 4.
+
+Tank Overflow Accident Report
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+CAST and Accident Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Safeware\] pp. 39–48 and 53–88.
+
+\[ESW\] Chapters 5 and 11.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Traditional HA, Lecture on Quantification
+{{< tdclose >}}
+{{< tdopen >}}
+\[Safeware\] pp. 305–11, 313–26, 327–32, 341–44, 350–58
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Systems Theoretic Process Analysis (STPA) Introduction, Basic Components (hazard, constraints, HCS)
+{{< tdclose >}}
+{{< tdopen >}}
+\[ESW\] Chapters 6 and 7 (only pp. 211–30).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+STPA, How to Do It
+{{< tdclose >}}
+{{< tdopen >}}
+\[ESW\] Chapter 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Design for Safety
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Safeware\] Chapter 16, Follensbee.
+
+\[ESW\] pp. 263–73.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Human Factors
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Automation Complacency Paper
+
+\[Safeware\] pp. 204–24 (Human error models).
+
+\[ESW\] pp. 273–306.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Cyber Security
+{{< tdclose >}}
+{{< tdopen >}}
+Young and Leveson paper
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Operations, Regulation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[ESW\] Chapters 12.
+
+Other readings (assigned in class)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Management, SUBSAFE
+{{< tdclose >}}
+{{< tdopen >}}
+\[ESW\] Chapters 13 and 14.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations of Class Projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "optional" >}}{{< /anchor >}}Optional Readings and Materials
 -----------------------------------------------------------------------

@@ -39,18 +39,108 @@ Grading Policy
 
 Each homework assignment will be graded with a number from 1–10 as listed in the following table:
 
-| GRADES | GRADING NUMBERS |
-| --- | --- |
-| A | 8–10 |
-| B | 6–7 |
-| C | 4–5 |
-| F | 1–3 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADES
+{{< thclose >}}
+{{< thopen >}}
+GRADING NUMBERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+8–10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+4–5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+1–3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For the final grade, there are 4 assignments (Ethics, Citichem, Reading questions, Accident report), a CAST (accident analysis), and a class project. The breakdown of the final grade is summarized as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Project | 30% |
-| CAST Analysis | 25% |
-| Take-home Exam | 25% |
-| Four Assignments | 20% (5% of each)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CAST Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20% (5% of each)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
